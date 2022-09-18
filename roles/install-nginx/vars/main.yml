@@ -1,0 +1,3 @@
+---
+# vars file for install-nginx
+URL_APP: "http://localhost:3003"

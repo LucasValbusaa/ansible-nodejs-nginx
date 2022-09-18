@@ -1,0 +1,6 @@
+---
+# handlers file for nodejs-servers
+- name: Create dir app
+  file:
+    path: /app
+    state: directory
